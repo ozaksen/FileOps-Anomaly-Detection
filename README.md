@@ -65,7 +65,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/ozaksen/FileOps-Anomaly-Detection.git
 cd FileOps-Anomaly-Detection
-pip install -r requirements.txt
 ```
 
 ### Usage
